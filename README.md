@@ -1,4 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+﻿<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                         MAI TRUNG LUÂN                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -134,12 +134,12 @@ I build **scalable backend systems**, **AI applications**, **Telegram bots**, an
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maitrungluan-05&amp;show_icons=true&amp;hide_border=true&amp;bg_color=020617&amp;title_color=38bdf8&amp;icon_color=0ea5e9&amp;text_color=94a3b8&amp;ring_color=38bdf8&amp;rank_icon=github&amp;include_all_commits=true" alt="GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maitrungluan-05&amp;theme=github_dark" alt="GitHub statistics" />
 <img width="49%" src="https://streak-stats.demolab.com?user=maitrungluan-05&amp;hide_border=true&amp;background=020617&amp;ring=38BDF8&amp;fire=0EA5E9&amp;currStreakLabel=38BDF8&amp;sideLabels=94A3B8&amp;dates=475569&amp;currStreakNum=E0F2FE&amp;sideNums=E0F2FE" alt="GitHub streak" />
 
 <br />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitrungluan-05&amp;layout=compact&amp;hide_border=true&amp;bg_color=020617&amp;title_color=38bdf8&amp;text_color=94a3b8&amp;langs_count=10&amp;card_width=420" alt="Top languages" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maitrungluan-05&amp;theme=github_dark" alt="Top languages" />
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maitrungluan-05&amp;theme=github_dark&amp;utcOffset=7" alt="Productive time" />
 
 <br /><br />
@@ -154,27 +154,7 @@ I build **scalable backend systems**, **AI applications**, **Telegram bots**, an
 
 <br />
 
-## `05. CONTRIBUTION_SNAKE`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maitrungluan-05/maitrungluan-05/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maitrungluan-05/maitrungluan-05/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/maitrungluan-05/maitrungluan-05/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br />
-
-## `06. ACHIEVEMENT_PROTOCOL`
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=maitrungluan-05&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;column=7" alt="GitHub trophies" />
-
-</div>
+## `05. ACHIEVEMENT_PROTOCOL``r`n`r`n<div align="center">`r`n`r`n![Backend](https://img.shields.io/badge/FOCUS-BACKEND_ENGINEERING-020617?style=for-the-badge&logo=nodedotjs&logoColor=38bdf8) `r`n![AI](https://img.shields.io/badge/SPECIALITY-AI_AUTOMATION-020617?style=for-the-badge&logo=probot&logoColor=38bdf8)`r`n`r`n</div>
 
 <br />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=2&amp;color=0:020617,50:38bdf8,100:020617" alt="neon divider" />
@@ -366,4 +346,5 @@ Dùng để quản lý cơ bản máy tính, vd như tắt máy,.......
 <sub>© 2023 Mai Trung Luân &nbsp;•&nbsp; Vietnam &nbsp;•&nbsp; All systems operational</sub>
 
 </div>
+
 
