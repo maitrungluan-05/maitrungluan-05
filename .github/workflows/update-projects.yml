@@ -1,0 +1,42 @@
+name: Update profile projects
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - README.md
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-project-update
+  cancel-in-progress: true
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate live project cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update-projects.js
+
+      - name: Commit updated profile
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(profile): refresh live projects"
+          file_pattern: README.md
