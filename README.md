@@ -166,19 +166,6 @@ I build **scalable backend systems**, **AI applications**, **Telegram bots**, an
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/maitrungluan-05/archi-studio">archi-studio</a>
-
-A production project by Mai Trung Luân.
-
-<code>software</code> <code>development</code>
-
-<a href="https://github.com/maitrungluan-05/archi-studio/stargazers"><img src="https://img.shields.io/github/stars/maitrungluan-05/archi-studio?style=flat-square&amp;labelColor=020617&amp;color=0284c7&amp;logo=github&amp;logoColor=38bdf8" alt="Stars for archi-studio" /></a>
-<img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&amp;logoColor=38bdf8" alt="Primary language: TypeScript" />
-<a href="https://github.com/maitrungluan-05/archi-studio"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View archi-studio" /></a>
-
-</td>
-<td width="50%" valign="top">
-
 ### <a href="https://github.com/maitrungluan-05/lingoflow">lingoflow</a>
 
 A production project by Mai Trung Luân.
@@ -190,8 +177,6 @@ A production project by Mai Trung Luân.
 <a href="https://github.com/maitrungluan-05/lingoflow"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View lingoflow" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/maitrungluan-05/botcheck_live_die_fb_useTELE">botcheck_live_die_fb_useTELE</a>
@@ -205,6 +190,8 @@ A production project by Mai Trung Luân.
 <a href="https://github.com/maitrungluan-05/botcheck_live_die_fb_useTELE"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View botcheck_live_die_fb_useTELE" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/maitrungluan-05/leetcode_js">leetcode_js</a>
@@ -218,8 +205,6 @@ A production project by Mai Trung Luân.
 <a href="https://github.com/maitrungluan-05/leetcode_js"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View leetcode_js" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/maitrungluan-05/node_learn">node_learn</a>
@@ -233,6 +218,8 @@ A production project by Mai Trung Luân.
 <a href="https://github.com/maitrungluan-05/node_learn"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View node_learn" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/maitrungluan-05/remotePC_tele">remotePC_tele</a>
@@ -244,6 +231,19 @@ Dùng để quản lý cơ bản máy tính, vd như tắt máy,.......
 <a href="https://github.com/maitrungluan-05/remotePC_tele/stargazers"><img src="https://img.shields.io/github/stars/maitrungluan-05/remotePC_tele?style=flat-square&amp;labelColor=020617&amp;color=0284c7&amp;logo=github&amp;logoColor=38bdf8" alt="Stars for remotePC_tele" /></a>
 <img src="https://img.shields.io/badge/JavaScript-020617?style=flat-square&amp;logoColor=38bdf8" alt="Primary language: JavaScript" />
 <a href="https://github.com/maitrungluan-05/remotePC_tele"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View remotePC_tele" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/maitrungluan-05/profile">profile</a>
+
+A production project by Mai Trung Luân.
+
+<code>software</code> <code>development</code>
+
+<a href="https://github.com/maitrungluan-05/profile/stargazers"><img src="https://img.shields.io/github/stars/maitrungluan-05/profile?style=flat-square&amp;labelColor=020617&amp;color=0284c7&amp;logo=github&amp;logoColor=38bdf8" alt="Stars for profile" /></a>
+<img src="https://img.shields.io/badge/HTML-020617?style=flat-square&amp;logoColor=38bdf8" alt="Primary language: HTML" />
+<a href="https://github.com/maitrungluan-05/profile"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View profile" /></a>
 
 </td>
 </tr>
