@@ -166,6 +166,19 @@ I build **scalable backend systems**, **AI applications**, **Telegram bots**, an
 <tr>
 <td width="50%" valign="top">
 
+### <a href="https://github.com/maitrungluan-05/autosetupenvironment">autosetupenvironment</a>
+
+A production project by Mai Trung Luân.
+
+<code>software</code> <code>development</code>
+
+<a href="https://github.com/maitrungluan-05/autosetupenvironment/stargazers"><img src="https://img.shields.io/github/stars/maitrungluan-05/autosetupenvironment?style=flat-square&amp;labelColor=020617&amp;color=0284c7&amp;logo=github&amp;logoColor=38bdf8" alt="Stars for autosetupenvironment" /></a>
+<img src="https://img.shields.io/badge/PowerShell-020617?style=flat-square&amp;logoColor=38bdf8" alt="Primary language: PowerShell" />
+<a href="https://github.com/maitrungluan-05/autosetupenvironment"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View autosetupenvironment" /></a>
+
+</td>
+<td width="50%" valign="top">
+
 ### <a href="https://github.com/maitrungluan-05/portfolio_luan">portfolio_luan</a>
 
 A production project by Mai Trung Luân.
@@ -177,6 +190,8 @@ A production project by Mai Trung Luân.
 <a href="https://github.com/maitrungluan-05/portfolio_luan"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View portfolio_luan" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/maitrungluan-05/dld_agency_media">dld_agency_media</a>
@@ -190,8 +205,6 @@ A production project by Mai Trung Luân.
 <a href="https://github.com/maitrungluan-05/dld_agency_media"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View dld_agency_media" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/maitrungluan-05/autologfb">autologfb</a>
@@ -205,6 +218,8 @@ A production project by Mai Trung Luân.
 <a href="https://github.com/maitrungluan-05/autologfb"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View autologfb" /></a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/maitrungluan-05/lingoflow">lingoflow</a>
@@ -218,8 +233,6 @@ A production project by Mai Trung Luân.
 <a href="https://github.com/maitrungluan-05/lingoflow"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View lingoflow" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/maitrungluan-05/botcheck_live_die_fb_useTELE">botcheck_live_die_fb_useTELE</a>
@@ -231,19 +244,6 @@ A production project by Mai Trung Luân.
 <a href="https://github.com/maitrungluan-05/botcheck_live_die_fb_useTELE/stargazers"><img src="https://img.shields.io/github/stars/maitrungluan-05/botcheck_live_die_fb_useTELE?style=flat-square&amp;labelColor=020617&amp;color=0284c7&amp;logo=github&amp;logoColor=38bdf8" alt="Stars for botcheck_live_die_fb_useTELE" /></a>
 <img src="https://img.shields.io/badge/C%23-020617?style=flat-square&amp;logoColor=38bdf8" alt="Primary language: C#" />
 <a href="https://github.com/maitrungluan-05/botcheck_live_die_fb_useTELE"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View botcheck_live_die_fb_useTELE" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/maitrungluan-05/leetcode_js">leetcode_js</a>
-
-A production project by Mai Trung Luân.
-
-<code>software</code> <code>development</code>
-
-<a href="https://github.com/maitrungluan-05/leetcode_js/stargazers"><img src="https://img.shields.io/github/stars/maitrungluan-05/leetcode_js?style=flat-square&amp;labelColor=020617&amp;color=0284c7&amp;logo=github&amp;logoColor=38bdf8" alt="Stars for leetcode_js" /></a>
-<img src="https://img.shields.io/badge/JavaScript-020617?style=flat-square&amp;logoColor=38bdf8" alt="Primary language: JavaScript" />
-<a href="https://github.com/maitrungluan-05/leetcode_js"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&amp;logo=github&amp;logoColor=38bdf8" alt="View leetcode_js" /></a>
 
 </td>
 </tr>
